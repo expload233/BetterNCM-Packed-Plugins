@@ -58,18 +58,18 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "description": "自定义网易云背景！（需安装任意主题）",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "ncm3-compatible": true,
         "slug": "BGEnhanced",
-        "update_time": 1690355569,
+        "update_time": 1690384453,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
         "stars": 16,
-        "file": "BGEnhanced-0.3.1.plugin",
-        "file-url": "plugins/BGEnhanced-0.3.1.plugin"
+        "file": "BGEnhanced-0.3.2.plugin",
+        "file-url": "plugins/BGEnhanced-0.3.2.plugin"
     },
     {
         "name": "BGEnhanced Extra",
@@ -136,7 +136,7 @@
         "update_time": 1679127491,
         "publish_time": 1678537241,
         "repo": "BetterNCM/CrossfadeLFP",
-        "stars": 4,
+        "stars": 5,
         "file": "crossfade-lfp-0.1.5.plugin",
         "file-url": "plugins/crossfade-lfp-0.1.5.plugin"
     },
@@ -243,6 +243,23 @@
         "repo": "RingZc/HideScrollbar",
         "file": "HideScrollbar-2.0.2.plugin",
         "file-url": "plugins/HideScrollbar-2.0.2.plugin"
+    },
+    {
+        "name": "InfLink",
+        "author": "MicroBlock",
+        "version": "1.0.5",
+        "description": "连接各种歌曲信息协议\n目前：SMTC（Windows自带）, Discord Rich Presence",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/InfLink.png",
+        "ncm3-compatible": true,
+        "slug": "InfLink",
+        "update_time": 1690385511,
+        "publish_time": 1673372080,
+        "repo": "BetterNCM/InfinityLink",
+        "stars": 13,
+        "native": true,
+        "file": "InfLink-1.0.5.plugin",
+        "file-url": "plugins/InfLink-1.0.5.plugin"
     },
     {
         "name": "LibEAPIRequest",
@@ -596,7 +613,7 @@
         "update_time": 1674960323,
         "publish_time": 1672515583,
         "repo": "BetterNCM/RoundCornerNCM",
-        "stars": 1,
+        "stars": 2,
         "require_restart": true,
         "file": "RoundCornerNCM-0.1.2.plugin",
         "file-url": "plugins/RoundCornerNCM-0.1.2.plugin"
