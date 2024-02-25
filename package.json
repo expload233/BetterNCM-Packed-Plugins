@@ -1,6 +1,6 @@
 {
   "name": "betterncm-packed-plugins",
-  "version": "1.0.49",
+  "version": "1.0.50",
   "description": "本 Repo 是 BetterNCM 的插件库",
   "main": "index.js",
   "scripts": {
