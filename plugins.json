@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1848,
+        "stars": 1849,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -832,6 +832,30 @@
         "stars": 416,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
+    },
+    {
+        "name": "RefinedNowPlaying Enhanced",
+        "author": "LaoShui, solstice23",
+        "version": "0.1.0",
+        "description": "重新设计的正在播放页面和歌词（增强版）",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/RefinedNowPlaying-Enhanced.webp",
+        "author_links": [
+            "https://github.com/laoshuikaixue",
+            "https://github.com/solstice23"
+        ],
+        "type": "extension",
+        "incompatible": [
+            "Apple-Musiclike-lyrics"
+        ],
+        "slug": "RefinedNowPlaying-Enhanced",
+        "update_time": 1771764789,
+        "publish_time": 1771764789,
+        "repo": "laoshuikaixue/refined-now-playing-netease-enhanced",
+        "stars": 1,
+        "file": "RefinedNowPlaying-Enhanced-0.1.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-Enhanced-0.1.0.plugin"
     },
     {
         "name": "纯净分享链接",
