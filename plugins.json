@@ -55,6 +55,23 @@
         "file-url": "plugins/ActionEnhancement-0.1.9.plugin"
     },
     {
+        "name": "AdvancedPlayBar",
+        "author": "Fina",
+        "version": "1.1.0",
+        "description": "播放栏增强：透明/毛玻璃播放栏，进度条悬停动效，全局主题色自定义。",
+        "betterncm_version": ">=1.3.4",
+        "preview": "previews/advanced-playbar.jpg",
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "advanced-playbar",
+        "update_time": 1790167690,
+        "publish_time": 1790167690,
+        "repo": "FinaFina233/AdvancedPlayBar",
+        "stars": 3,
+        "file": "advanced-playbar-1.1.0.plugin",
+        "file-url": "plugins/advanced-playbar-1.1.0.plugin"
+    },
+    {
         "name": "类苹果歌词",
         "author": "SteveXMH",
         "version": "3.1.0",
@@ -227,6 +244,23 @@
         "file-url": "plugins/BetterCloudSearch-1.4.plugin"
     },
     {
+        "name": "BetterDownload",
+        "author": "XIAOMING6680",
+        "version": "0.4.1",
+        "description": "自动解锁下载的 VIP 歌曲，保留原音质，内嵌封面与歌曲信息。",
+        "betterncm_version": ">=1.3.4",
+        "preview": "previews/ncm-better-download.jpg",
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "ncm-better-download",
+        "update_time": 1790167611,
+        "publish_time": 1790167611,
+        "repo": "xiaoming6680/BetterDownload",
+        "require_restart": true,
+        "file": "ncm-better-download-0.4.1.plugin",
+        "file-url": "plugins/ncm-better-download-0.4.1.plugin"
+    },
+    {
         "name": "CppLyrics ⚠ 开发中 ⚠",
         "author": "MicroBlock",
         "version": "0.0.8",
@@ -328,6 +362,21 @@
         "file-url": "plugins/DowngradeOK-0.0.5.plugin"
     },
     {
+        "name": "EasyAudioVisualizer",
+        "author": "CHNHenry",
+        "version": "0.3.2",
+        "description": "在播放页进度条上方显示经科学信号处理（A计权/时间计权/高斯滤波/多分辨率分体FFT）的音频频谱可视化，全部参数可在设置页调整。",
+        "betterncm_version": ">=1.0.0",
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "easy-audio-visualizer",
+        "update_time": 1790167609,
+        "publish_time": 1790167609,
+        "repo": "CHNHenry/EasyAudioVisualizer",
+        "file": "easy-audio-visualizer-0.3.2.plugin",
+        "file-url": "plugins/easy-audio-visualizer-0.3.2.plugin"
+    },
+    {
         "name": "ElainaTheme",
         "author": "keiko233",
         "version": "1.0.6",
@@ -375,6 +424,25 @@
         "stars": 6,
         "file": "FluentProgressBar-1.0.3.plugin",
         "file-url": "plugins/FluentProgressBar-1.0.3.plugin"
+    },
+    {
+        "name": "FluentProgressBar (优化版)",
+        "author": "MicroBlock & Solstice23, Indor",
+        "version": "1.0.4",
+        "description": "让你的进度条更顺滑！(优化版)",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/FluentProgressBar-Optimized.png",
+        "author_links": [
+            "https://github.com/In-dor/FluentProgessBar"
+        ],
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "FluentProgressBar-Optimized",
+        "update_time": 1790167701,
+        "publish_time": 1790167701,
+        "repo": "In-dor/FluentProgessBar",
+        "file": "FluentProgressBar-Optimized-1.0.4.plugin",
+        "file-url": "plugins/FluentProgressBar-Optimized-1.0.4.plugin"
     },
     {
         "name": "JapaneseFonts",
